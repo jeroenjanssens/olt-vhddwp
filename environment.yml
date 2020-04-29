@@ -1,0 +1,8 @@
+name: olt-vhddwp
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - scikit-learn
+  - umap-learn
+  - plotnine
